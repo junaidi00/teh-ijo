@@ -1,0 +1,23 @@
+{
+    "name": "teh-ijo",
+    "version": "1.0.2",
+    "description": "A simple npm module for encrypting and decrypting messages using AES encryption.",
+    "main": "tehijo.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "crypto",
+        "encryption",
+        "decryption"
+    ],
+    "author": "junaidi00",
+    "license": "MIT",
+    "dependencies": {
+        "crypto-js": "^4.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/junaidi00/teh-ijo.git"
+    }
+}
